@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Saiteja Vinukonda!
 
 **Full Stack Developer | AI Enthusiast | Data Explorer**  
